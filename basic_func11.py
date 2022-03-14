@@ -2,4 +2,4 @@
 # Create function argument a.
 # Return the absolute value of a.
 def main(a) :
-    return (abs(a))
+    return(abs(a))
