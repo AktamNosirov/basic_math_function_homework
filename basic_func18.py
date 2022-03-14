@@ -5,5 +5,4 @@
 def main(a) :
     from math import pi
     a=pi
-    round(a,2)
-    return(a)
+    return(round(a,2))
