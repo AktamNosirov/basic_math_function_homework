@@ -3,3 +3,4 @@
 # Return the absolute value of a.
 def main(a) :
     return(abs(a))
+
